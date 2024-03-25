@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **more outside of Web Development**
 
-- 👨‍💻 All of my projects are available at [brendonluu.com](brendonluu.com)
+- 👨‍💻 All of my projects are available at [My Personal Portfolio Website](brendonluu.com)
 
 - 💬 Ask me about **React and TypeScript!**
 
 - 📫 How to reach me **brendonluu03@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brendonluu/](https://www.linkedin.com/in/brendonluu/)
+- 📄 Know about my experiences [LinkedIn](linkedin.com/in/brendonluu/)
 
 - ⚡ Fun fact **I am extremely passionate about a sport I compete in called Powerlifting. I am a co-founder and executive of my school's Carleton University Powerlifting Club, with over 350 members.**
 
