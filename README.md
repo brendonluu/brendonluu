@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/brendonluu/)
 
-- ⚡ Fun fact **I am extremely passionate about a sport I compete in called Powerlifting. I am a co-founder and executive of my school's Carleton University Powerlifting Club, with over 350 members.**
+- ⚡ Fun fact **I am extremely passionate about a sport I compete in called Powerlifting. I am the President and Co-founder of my school's Carleton University Powerlifting Club, with over 350 members.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
