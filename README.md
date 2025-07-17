@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendon Luu</h1>
-<h3 align="center">A Third Year Honours student at Carleton University, currently in the Software Engineering Stream 🏫</h3>
+<h3 align="center">A Fourth Year Computer Science student at Carleton University, currently in the Software Engineering Stream 🏫</h3>
 
 - 🌱 I’m currently learning back end development by working on a full-stack web app, using **Springboot and PostgreSQL** as the back end
 
